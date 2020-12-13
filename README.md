@@ -1,0 +1,2 @@
+# MyCounter
+Counter with Pharo
